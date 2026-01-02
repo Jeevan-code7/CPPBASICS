@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+  int numInt = 10;
+  cout << numInt ;
+  return 0;
+}
+
+
+
+
